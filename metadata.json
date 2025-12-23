@@ -1,0 +1,5 @@
+{
+  "name": "万能图片转化工具（可加水印）",
+  "description": "A powerful, client-side batch image processor. Converts formats, intelligently resizes while preserving aspect ratios, and handles ZIP archives. Features an AI assistant for optimization advice.",
+  "requestFramePermissions": []
+}
